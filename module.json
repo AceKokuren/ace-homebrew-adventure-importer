@@ -1,0 +1,22 @@
+{
+  "name": "ace-homebrew-adventure-importer",
+  "title": "Ace's Homebrew Adventures",
+  "description": "A module to import my published homebrew adventures!",
+  "author": "AceKokuren",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
+  "minimumSystemVersion": "1.3.6",
+  "scripts" : ["./scripts"],
+  "url" : "https://www.patreon.com/acekokuren",
+  "manifest" : "",
+  "download" : "",
+  "packs" : [
+    {
+      "label" : "Test Scenes",
+      "entity" : "Scene",
+      "name" : "scenes",
+      "path" : "packs/scenes.db"
+    }
+  ]
+}
