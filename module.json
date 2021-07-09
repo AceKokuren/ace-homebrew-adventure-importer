@@ -1,7 +1,7 @@
 {
   "name": "ace-homebrew-adventure-importer",
   "title": "Ace's Homebrew Adventures",
-  "description": "A module to import my published homebrew adventures!",
+  "description": "A module to import my published homebrew adventures.",
   "author": "AceKokuren",
   "version": "0.0.1",
   "minimumCoreVersion": "0.8.8",
